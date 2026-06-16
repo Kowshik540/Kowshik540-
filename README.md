@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kowshik540)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kowshik-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](thotakowshikportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshikthota43@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kowshik540&style=for-the-badge&color=blue)
@@ -165,7 +165,7 @@ Software architecture, RESTful API design, secure backend dev & Agile/SDLC best 
 ### 💬 Let's connect and build something great together!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kowshik-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](thotakowshikportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshikthota43@gmail.com)
 
 ⭐ *If you find my projects useful, consider giving them a star!*
