@@ -6,14 +6,14 @@
 
 ### 🚀 *"I build full-stack products that solve real problems — from real-time messaging to production-grade order systems that handle 500+ concurrent users."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshik-thota)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kowshik540)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](thotakowshikportfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thotakowshikportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshikthota43@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kowshik540&style=for-the-badge&color=blue)
 [![GitHub followers](https://img.shields.io/github/followers/Kowshik540?style=for-the-badge&color=green)](https://github.com/Kowshik540)
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kowshikthota43/)
 
 </div>
 
@@ -164,8 +164,8 @@ Software architecture, RESTful API design, secure backend dev & Agile/SDLC best 
 
 ### 💬 Let's connect and build something great together!
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kowshik)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](thotakowshikportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshik-thota)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://thotakowshikportfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshikthota43@gmail.com)
 
 ⭐ *If you find my projects useful, consider giving them a star!*
