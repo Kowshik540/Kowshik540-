@@ -4,7 +4,7 @@
 
 **Full-Stack Developer · MERN Stack · Real-Time Systems Builder**
 
-### 🚀 *"I build full-stack products that solve real problems — from real-time messaging to production-grade order systems that handle 500+ concurrent users."*
+### 🚀 *"I build full-stack products that solve real problems — from real-time messaging to production-grade order systems that handles concurrent users."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshik-thota)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kowshik540)
